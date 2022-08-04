@@ -64,6 +64,7 @@ db.sqlite3-journal
 # Flask stuff:
 instance/
 .webassets-cache
+app1.py
 
 # Scrapy stuff:
 .scrapy
